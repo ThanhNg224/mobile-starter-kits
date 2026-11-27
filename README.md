@@ -15,16 +15,16 @@
 
 ## Android
 
-- **[Android App Starter (Compose)](https://github.com/ThanhNg224/AndroidComposeBase)** · Start a native Android app with Jetpack Compose and reusable core libraries.
-- **[Android App Starter (XML)](https://github.com/ThanhNg224/AndroidCoreBase)** · Start a native Android app with XML layouts and ViewBinding, with optional Compose integration.
-- **[Android SDK Starter](https://github.com/ThanhNg224/AndroidSdkBase)** · Build an Android SDK for other apps to integrate, with enforced module boundaries and a demo app.
+- **[Android App Starter (Compose)](https://github.com/ThanhNg224/android-app-starter-compose)** · Start a native Android app with Jetpack Compose and reusable core libraries.
+- **[Android App Starter (XML)](https://github.com/ThanhNg224/android-app-starter-xml)** · Start a native Android app with XML layouts and ViewBinding, with optional Compose integration.
+- **[Android SDK Starter](https://github.com/ThanhNg224/android-sdk-starter)** · Build an Android SDK for other apps to integrate, with enforced module boundaries and a demo app.
 
 ## React Native
 
-- **[React Native App Starter](https://github.com/ThanhNg224/ReactNativeCoreBase)** · Start an iOS and Android app with Expo, TypeScript, and Expo Router.
-- **[React Native SDK Starter](https://github.com/ThanhNg224/ReactNativeSdkBase)** · Build a TypeScript SDK for other React Native apps to integrate, with an Expo native module.
+- **[React Native App Starter](https://github.com/ThanhNg224/react-native-app-starter)** · Start an iOS and Android app with Expo, TypeScript, and Expo Router.
+- **[React Native SDK Starter](https://github.com/ThanhNg224/react-native-sdk-starter)** · Build a TypeScript SDK for other React Native apps to integrate, with an Expo native module.
 
 ## Flutter
 
-- **[Flutter App Starter](https://github.com/ThanhNg224/FlutterCoreBase)** · Start a Flutter app with a feature-first architecture, Riverpod, and Freezed.
-- **[Flutter SDK Starter](https://github.com/ThanhNg224/FlutterSdkBase)** · Build a reusable Dart package for Flutter apps, with an explicit public API and a standalone example app.
+- **[Flutter App Starter](https://github.com/ThanhNg224/flutter-app-starter)** · Start a Flutter app with a feature-first architecture, Riverpod, and Freezed.
+- **[Flutter SDK Starter](https://github.com/ThanhNg224/flutter-sdk-starter)** · Build a reusable Dart package for Flutter apps, with an explicit public API and a standalone example app.
