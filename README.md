@@ -1,25 +1,30 @@
-# Mobile Starter Kits
+<p align="center">
+  <img src="assets/mobile-starter-kits.svg" alt="" width="960">
+</p>
 
-Seven starter repositories for building mobile apps and SDKs with Android, React Native, and Flutter.
+<h1 align="center">Mobile Starter Kits</h1>
+
+<p align="center">
+  Seven starter projects for building mobile apps and SDKs.<br>
+  Compare native Android UI approaches, cross-platform app foundations, and SDK examples.
+</p>
+
+<p align="center">
+  <strong><a href="#android">Android</a> · <a href="#react-native">React Native</a> · <a href="#flutter">Flutter</a></strong>
+</p>
 
 ## Android
 
-| Starter | What's included |
-| --- | --- |
-| [Android App Starter — Jetpack Compose](https://github.com/ThanhNg224/AndroidComposeBase) | Jetpack Compose and reusable core libraries. |
-| [Android App Starter — XML & ViewBinding](https://github.com/ThanhNg224/AndroidCoreBase) | XML layouts, ViewBinding, and optional Compose interoperability. |
-| [Android SDK Starter](https://github.com/ThanhNg224/AndroidSdkBase) | Enforced module boundaries and a demo app. |
+- **[Jetpack Compose app starter](https://github.com/ThanhNg224/AndroidComposeBase)** · Compose UI with reusable core libraries.
+- **[XML & ViewBinding app starter](https://github.com/ThanhNg224/AndroidCoreBase)** · XML layouts with ViewBinding and optional Compose integration.
+- **[Android SDK starter](https://github.com/ThanhNg224/AndroidSdkBase)** · An SDK with enforced module boundaries and a demo app for manual integration checks.
 
 ## React Native
 
-| Starter | What's included |
-| --- | --- |
-| [React Native App Starter](https://github.com/ThanhNg224/ReactNativeCoreBase) | An Expo app for iOS and Android with TypeScript and Expo Router. |
-| [React Native SDK Starter](https://github.com/ThanhNg224/ReactNativeSdkBase) | A TypeScript SDK template with an Expo native module. |
+- **[Expo app starter](https://github.com/ThanhNg224/ReactNativeCoreBase)** · A TypeScript app foundation for iOS and Android with Expo Router.
+- **[React Native SDK starter](https://github.com/ThanhNg224/ReactNativeSdkBase)** · A TypeScript SDK with an Expo native module, typed errors, and injectable HTTP transport.
 
 ## Flutter
 
-| Starter | What's included |
-| --- | --- |
-| [Flutter App Starter](https://github.com/ThanhNg224/FlutterCoreBase) | Feature-first architecture with Riverpod and Freezed. |
-| [Flutter SDK Starter](https://github.com/ThanhNg224/FlutterSdkBase) | A Dart package with explicit public exports and a standalone example app. |
+- **[Flutter app starter](https://github.com/ThanhNg224/FlutterCoreBase)** · Feature-first Clean Architecture with Riverpod and Freezed.
+- **[Flutter SDK starter](https://github.com/ThanhNg224/FlutterSdkBase)** · A Dart package with explicit public exports and a standalone example app.

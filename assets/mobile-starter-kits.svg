@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="172" viewBox="0 0 960 172">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#dbe8ff" stroke-opacity=".12"/>
+    </pattern>
+    <linearGradient id="background" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#122832"/>
+      <stop offset=".5" stop-color="#161e36"/>
+      <stop offset="1" stop-color="#152b43"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="960" height="172" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="960" height="172" fill="url(#background)"/>
+    <rect width="960" height="172" fill="url(#grid)"/>
+
+    <path d="M0 124h124l24-24h99m466 0h99l24-24h124" fill="none" stroke="#8ba9cf" stroke-opacity=".45"/>
+    <path d="M352 100h77m102 0h77" fill="none" stroke="#8ba9cf" stroke-opacity=".45" stroke-dasharray="5 5"/>
+    <g fill="#a9c9ed">
+      <circle cx="124" cy="124" r="3"/>
+      <circle cx="429" cy="100" r="3"/>
+      <circle cx="531" cy="100" r="3"/>
+      <circle cx="836" cy="76" r="3"/>
+    </g>
+
+    <!-- App layouts -->
+    <g transform="translate(247 19)">
+      <rect width="106" height="134" rx="18" fill="#122b33" stroke="#75e3ac" stroke-width="2"/>
+      <rect x="42" y="10" width="22" height="3" rx="1.5" fill="#75e3ac"/>
+      <rect x="13" y="24" width="80" height="38" rx="6" fill="#294e46"/>
+      <path d="M24 39h31m-31 9h48" stroke="#b6f4cc" stroke-width="3" stroke-linecap="round"/>
+      <rect x="13" y="70" width="36" height="34" rx="6" fill="#75e3ac"/>
+      <rect x="57" y="70" width="36" height="34" rx="6" fill="#294e46"/>
+      <path d="M25 87h12" stroke="#122b33" stroke-width="3" stroke-linecap="round"/>
+      <path d="M69 87h12m-39 32h22" stroke="#b6f4cc" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- Source code -->
+    <g transform="translate(427 19)">
+      <rect width="106" height="134" rx="18" fill="#20243e" stroke="#c8b3ff" stroke-width="2"/>
+      <rect x="42" y="10" width="22" height="3" rx="1.5" fill="#c8b3ff"/>
+      <rect x="13" y="24" width="80" height="80" rx="6" fill="#36345b"/>
+      <path d="m39 48-12 12 12 12m28-24 12 12-12 12M58 44 48 76" fill="none" stroke="#dfd0ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M42 119h22" stroke="#dfd0ff" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- App and SDK modules -->
+    <g transform="translate(607 19)">
+      <rect width="106" height="134" rx="18" fill="#172d43" stroke="#7bd2ff" stroke-width="2"/>
+      <rect x="42" y="10" width="22" height="3" rx="1.5" fill="#7bd2ff"/>
+      <path d="m53 28 34 18-34 18-34-18z" fill="#7bd2ff" stroke="#b6e6ff" stroke-linejoin="round"/>
+      <path d="m19 58 34 18 34-18m-68 13 34 18 34-18m-68 13 34 18 34-18" fill="none" stroke="#7bd2ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M42 119h22" stroke="#b6e6ff" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
