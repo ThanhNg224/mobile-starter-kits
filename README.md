@@ -13,6 +13,9 @@
   <strong><a href="#android">Android</a> · <a href="#react-native">React Native</a> · <a href="#flutter">Flutter</a></strong>
 </p>
 
+> [!TIP]
+> Click any project name below to open its GitHub repository and view the source code.
+
 ## Android
 
 - **[Android App Starter (Compose)](https://github.com/ThanhNg224/android-app-starter-compose)** · Start a native Android app with Jetpack Compose and reusable core libraries.
