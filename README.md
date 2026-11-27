@@ -31,3 +31,7 @@
 
 - **[Flutter App Starter](https://github.com/ThanhNg224/flutter-app-starter)** · Start a Flutter app with a feature-first architecture, Riverpod, and Freezed.
 - **[Flutter SDK Starter](https://github.com/ThanhNg224/flutter-sdk-starter)** · Build a reusable Dart package for Flutter apps, with an explicit public API and a standalone example app.
+
+## Portfolio link checker
+
+Run `python3 tools/check_portfolio_links.py` to verify the public GitHub links in this catalog and the featured projects on my profile. It reads both READMEs through the GitHub API and reports renamed or publicly unavailable repositories. The checker uses Python's standard library and GitHub's unauthenticated API.
